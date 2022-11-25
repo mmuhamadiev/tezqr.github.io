@@ -19,7 +19,7 @@ html {
 }
 
 .download-btn-first:hover {
-  background: #234197;
+  background: #de3b12;
   color: #fff !important;
 }
 
@@ -72,7 +72,7 @@ html {
 .main-navbar-nav .nav-link {
   opacity: 1 !important;
   margin: 0 35px;
-  font-size: 14.5px;
+  font-size: 20px;
   font-weight: 500;
 }
 
@@ -118,7 +118,7 @@ html {
   font-size: 15px;
   padding: 8px 13px;
   font-weight: 400;
-  background: #234197;
+  background: #cb5844;
   color: #fff;
   margin-left: 10px;
 }
